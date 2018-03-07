@@ -1,0 +1,8 @@
+{
+    "HELLO_WORLD_CARD_TITLE": "Hallo Welt",
+    "HELLO_WORLD_MESSAGE": "Hallo Welt!",
+    "HELLO_NAME_MESSAGE": "Hallo %name%!",
+    "SESSION_END_MESSAGE": "Auf Wiedersehen!",
+    "HELP_MESSAGE": "Du kannst folgendes sagen: 'Alexa, Hallo Welt' oder 'Alexa, sag Hallo Welt mein Name ist Super Sebastian'",
+    "UNHANDLED_MESSAGE": "Entschuldigung, das habe ich nicht verstanden."
+}

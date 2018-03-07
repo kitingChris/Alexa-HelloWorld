@@ -1,0 +1,8 @@
+{
+    "HELLO_WORLD_CARD_TITLE": "Hello World",
+    "HELLO_WORLD_MESSAGE": "Hello World!",
+    "HELLO_NAME_MESSAGE": "Hello %name%!",
+    "SESSION_END_MESSAGE": "Bye!",
+    "HELP_MESSAGE": "You can try: 'alexa, hello world' or 'alexa, ask hello world my name is awesome Aaron'",
+    "UNHANDLED_MESSAGE": "Sorry, I didn't get that"
+}
